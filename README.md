@@ -138,7 +138,7 @@ Implementing CI/CD pipelines and cloud deployment strategies
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,python,java,cs,php,html,css&perline=4" />
+<img src="https://skillicons.dev/icons?i=js,python,java,cs,php,dart,html,css&perline=4" />
 
 </td>
 <td align="center" width="25%">
@@ -150,9 +150,9 @@ Implementing CI/CD pipelines and cloud deployment strategies
 </td>
 <td align="center" width="25%">
 
-**Databases & Tools**
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,figma&perline=3" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase&perline=2" />
 
 </td>
 <td align="center" width="25%">
