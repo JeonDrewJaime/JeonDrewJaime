@@ -140,28 +140,12 @@ Implementing CI/CD pipelines and cloud deployment strategies
 
 <img src="https://skillicons.dev/icons?i=js,python,java,cs,php,html,css&perline=4" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
 </td>
 <td align="center" width="25%">
 
 **Frameworks & Libraries**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,firebase,unity&perline=3" />
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 </td>
 <td align="center" width="25%">
@@ -170,23 +154,12 @@ Implementing CI/CD pipelines and cloud deployment strategies
 
 <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,figma&perline=3" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Realtime%20DB-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
 </td>
 <td align="center" width="25%">
 
 **Design & Other**
 
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&perline=2" />
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![XD](https://img.shields.io/badge/XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
 
 </td>
 </tr>
@@ -246,82 +219,6 @@ Foundation in Science & Technology
 
 </div>
 
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 📱 Mobile App Development
-
-**Cross-Platform Solutions**
-
-Built using Flutter & Firebase for real-time functionality
-
-- 🎯 Responsive UI/UX Design
-- 🔐 Secure Authentication
-- ☁️ Cloud Integration
-
-[View Projects →](https://jeondrewjaime.github.io/Portfolio/)
-
-</td>
-<td align="center" width="50%">
-
-### 🥽 Augmented Reality
-
-**Immersive AR Experiences**
-
-Developed with Unity & AR Foundation
-
-- 🌍 Real-world Integration
-- 🎮 Interactive Features
-- 📸 Computer Vision
-
-[View Projects →](https://jeondrewjaime.github.io/Portfolio/)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🌐 Web Applications
-
-**Full Stack Solutions**
-
-Built with React, Node.js & Modern Tools
-
-- ⚡ High Performance
-- 📱 Responsive Design
-- 🔄 REST APIs
-
-[View Projects →](https://jeondrewjaime.github.io/Portfolio/)
-
-</td>
-<td align="center" width="50%">
-
-### 🎨 UI/UX Design
-
-**User-Centered Design**
-
-Created with Figma & Adobe Suite
-
-- 🎯 User Research
-- 🎨 Visual Design
-- 🧪 Prototyping & Testing
-
-[View Projects →](https://jeondrewjaime.github.io/Portfolio/)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
 
 ## 🏆 Achievements & Highlights
 
